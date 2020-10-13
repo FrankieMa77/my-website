@@ -3,9 +3,4 @@ test git repo. delete later
 
 another test
 
-Third 
-
-Tweaked readme
-
-The fourth edit
-
+something else for rebase
