@@ -5,6 +5,4 @@ another test
 
 something else for rebase
 
-
-## Purpose
-Problematic commit on the local end
+This file is just another readme file
