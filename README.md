@@ -12,4 +12,6 @@ This file is just another readme file
 The purpose of this file is to provide examples how Git and GITHUB 
 are working together
 
+## Getting statring section
 
+This is my getting started section
